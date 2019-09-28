@@ -12,6 +12,7 @@
 ### Classics
 
 * [The Intelligent Investor (Benjamin Graham)](https://amzn.to/2nrHZA6) - Once you feel more or less comfortable with the basics of the stock market you will enjoy reading this book. Every page is filled with the eternal wisdom. Warren Buffett says it's the best book on investing ever written. It's hard to disagree.
+* [Common Stocks and Uncommon Profits (Philip Fisher)](https://amzn.to/2lUb2Me) - A classics of the Growth Investing. Charlie Munger is one of famous disciples of the Phisher's approach to investing.
 
 
 ## Websites
@@ -24,7 +25,7 @@ The list of websites where you can quickly grasp a basic financial information a
 * [Yahoo Finance](https://finance.yahoo.com/)
 * [MSN Money](https://www.msn.com/en-us/money)
 
-### Research And Investing Ideas
+### Research And Ideas
 
 * [WhaleWisdom](https://whalewisdom.com/) - aggregator of [13F filings](https://en.wikipedia.org/wiki/Form_13F), that tracks buys & sells of famous and prominent investors. Could be a good source of investing ideas, especially for those who practice coattail investing.
 * [Simply Wall St](https://simplywall.st) - non-free service that visualizes companies with a single spot (green or read) that represents a company from an investing perspective. Provides a lot of additional valuable information that goes beyond regular ratios: visualized debt and equity development, insider trades, ownership breakdown, management compensations, etc...
