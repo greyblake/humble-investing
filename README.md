@@ -27,8 +27,9 @@ The list of websites where you can quickly grasp a basic financial information a
 * [Yahoo Finance](https://finance.yahoo.com/)
 * [MSN Money](https://www.msn.com/en-us/money)
 
-### Research And Ideas
+### Analysis And Ideas
 
+* [Wallmine](https://wallmine.com) - the site provides a lot of different information, but I primary use it get information about insider ownership and insider transactions.
 * [WhaleWisdom](https://whalewisdom.com/) - aggregator of [13F filings](https://en.wikipedia.org/wiki/Form_13F), that tracks buys & sells of famous and prominent investors. Could be a good source of investing ideas, especially for those who practice coattail investing.
 * [Simply Wall St](https://simplywall.st) - non-free service that visualizes companies with a single spot (green or read) that represents a company from an investing perspective. Provides a lot of additional valuable information that goes beyond regular ratios: visualized debt and equity development, insider trades, ownership breakdown, management compensations, etc...
 * [Glassdoor](https://www.glassdoor.com) - I use this website to find out what employees think about their company.
@@ -37,3 +38,10 @@ The list of websites where you can quickly grasp a basic financial information a
 
 * [Macro Trends](https://www.macrotrends.net) - provides macro economical data. But I see it's more valuable for visualized historical data (and ratios) for US stocks.
 * [Trading Economics](https://tradingeconomics.com/) - provides a lot of different macro economical data (e.g. historical unemployment rate in Georgia).
+
+### Articles
+
+Those are the sites that publish analytical articles.
+
+* [The Motley Fool](https://www.fool.com/)
+* [Seeking Alpha](https://seekingalpha.com/)
