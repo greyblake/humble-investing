@@ -1,4 +1,4 @@
-# Humble Investing
+# Humble Investing 🎩💰
 
 > a list of books and online resources that help me to research stocks for investing
 
