@@ -23,6 +23,7 @@ The list of websites where you can quickly grasp a basic financial information a
 
 * [Investing.com](https://www.investing.com/)
 * [Finviz](https://finviz.com) - only for US companies
+* [Morning Star](https://www.morningstar.com)
 * [Yahoo Finance](https://finance.yahoo.com/)
 * [MSN Money](https://www.msn.com/en-us/money)
 
