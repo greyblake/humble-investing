@@ -32,6 +32,7 @@
 
 ### Precious Metals
 
+* [Guide To Investing in Gold & Silver: Protect Your Financial Future (Michael Maloney)](https://amzn.to/2mE736T)
 
 ## Websites
 
