@@ -1,6 +1,6 @@
 # Humble Investing
 
-> a list of resources that help me to research stocks for investing
+> a list of books and online resources that help me to research stocks for investing
 
 ## Books
 
