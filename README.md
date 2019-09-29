@@ -20,6 +20,7 @@
 
 * [Good Stocks Cheap (Kenneth Jeffrey Marshall)](https://amzn.to/2mGeZ7z) - IMHO one of the best books in this list. Author uncovers his investing framework: what means "to understand the business", how to evaluate it, how to perform different qualitative and quantitative analyses. Every chapter is covered with a concrete example with a real company, what brings all the information into practice.
 * [Value Investing: From Graham to Buffett and Beyond (Bruce C. N. Greenwald)](https://amzn.to/2nsLOoP) - a little encyclopedia of value investing.
+* [Margin Of Safety (Seth A. Klarman)](https://www.amazon.com/Margin-Safety-Risk-Averse-Strategies-Thoughtful/dp/0887305105/ref=as_li_ss_tl?keywords=margin+of+safety&qid=1569772808&s=gateway&sr=8-1&linkCode=sl1&tag=nonstopinvest-20&linkId=3d5ef3845e9e10f6830135c9f0a485d9&language=en_US)
 
 ### Advanced
 
