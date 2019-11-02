@@ -18,9 +18,10 @@
 
 ### Value Investing
 
-* [Good Stocks Cheap (Kenneth Jeffrey Marshall)](https://amzn.to/2mGeZ7z) - IMHO one of the best books in this list. Author uncovers his investing framework: what means "to understand the business", how to evaluate it, how to perform different qualitative and quantitative analyses. Every chapter is covered with a concrete example with a real company, what brings all the information into practice.
 * [Value Investing: From Graham to Buffett and Beyond (Bruce C. N. Greenwald)](https://amzn.to/2nsLOoP) - a little encyclopedia of value investing.
 * [Margin Of Safety (Seth A. Klarman)](https://www.amazon.com/Margin-Safety-Risk-Averse-Strategies-Thoughtful/dp/0887305105/ref=as_li_ss_tl?keywords=margin+of+safety&qid=1569772808&s=gateway&sr=8-1&linkCode=sl1&tag=nonstopinvest-20&linkId=3d5ef3845e9e10f6830135c9f0a485d9&language=en_US)
+* [Good Stocks Cheap (Kenneth Jeffrey Marshall)](https://amzn.to/2mGeZ7z) - IMHO one of the best books in this list. Author uncovers his investing framework: what means "to understand the business", how to evaluate it, how to perform different qualitative and quantitative analyses. Every chapter is covered with a concrete example with a real company, what brings all the information into practice.
+* [You Can Be a Stock Market Genius (Joel Greenblat)](https://www.amazon.com/Stock-Market-Genius-Youre-Smart/dp/0684832135/ref=as_li_ss_tl?_encoding=UTF8&qid=1572713210&sr=8-1&linkCode=ll1&tag=nonstopinvest-20&linkId=0427134552737220db4e5784d8db5ad7&language=en_US) - the best guide into special situations: spin-offs, mergers, restructuring, bankruptcies, recapitalizations...
 
 ### Advanced
 
@@ -56,8 +57,9 @@ The list of websites where you can quickly grasp a basic financial information a
 
 ### Ideas
 
-* [WhaleWisdom](https://whalewisdom.com/) - an aggregator of [13F filings](https://en.wikipedia.org/wiki/Form_13F), that tracks buys & sells of famous and prominent investors. Could be a good source of investing ideas, especially for those who practice coattail investing.
-* [Value Investors Club](https://www.valueinvestorsclub.com/) - a place to exchange value investing ideas
+* [WhaleWisdom](https://whalewisdom.com) - an aggregator of [13F filings](https://en.wikipedia.org/wiki/Form_13F), that tracks buys & sells of famous and prominent investors. Could be a good source of investing ideas, especially for those who practice coattail investing.
+* [Value Investors Club](https://www.valueinvestorsclub.com) - a place to exchange value investing ideas
+* [The Zen of Investing](http://thezenofinvesting.com) - list of upcoming spin-offs
 
 ### Historical Data
 
