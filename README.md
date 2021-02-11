@@ -31,6 +31,14 @@
 
 * [(RUS) Финансовая отчетность для руководителей и начинающих специалистов (Алексей Герасименко)](https://amzn.to/2mDW7Gg) - a very nice book (in russian), that explains how are the financial reports are being written. It provides much of use for an investor, because one learns to read those reports between the lines.
 
+### Corporate Finance 
+
+* [Principles of Corporate Finance (Richard A. Brealey, Stewart C. Myers, Franklin Allen)](https://www.amazon.com/-/eng/Richard-Brealey/dp/0078034760/ref=sr_1_1) The bible book for corporate finance covering value, risk management, financing decisions, options, debt financing and mergers
+
+### FOREX
+
+* [Options, Futures, and Other Derivatives (John C. Hull)](https://www.amazon.com/-/eng/John-Hull/dp/013447208X/ref=sr_1_1) From basics to advances related to the future markets. Different type of contracts, how to value, apply strategies and handle risk
+
 
 ### Precious Metals
 
@@ -47,6 +55,7 @@ The list of websites where you can quickly grasp a basic financial information a
 * [Morning Star](https://www.morningstar.com)
 * [Yahoo Finance](https://finance.yahoo.com/)
 * [MSN Money](https://www.msn.com/en-us/money)
+
 
 ### Analysis
 
