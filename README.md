@@ -66,6 +66,7 @@ The list of websites where you can quickly grasp a basic financial information a
 
 ### Ideas
 
+* [13F Insight](https://13finsight.com/) - tracks institutional investor 13F holdings with AI-powered analysis, position change alerts, and filing summaries. A useful complement to WhaleWisdom for following smart money.
 * [WhaleWisdom](https://whalewisdom.com) - an aggregator of [13F filings](https://en.wikipedia.org/wiki/Form_13F), that tracks buys & sells of famous and prominent investors. Could be a good source of investing ideas, especially for those who practice coattail investing.
 * [Value Investors Club](https://www.valueinvestorsclub.com) - a place to exchange value investing ideas
 * [The Zen of Investing](http://thezenofinvesting.com) - list of upcoming spin-offs
