@@ -61,6 +61,7 @@ The list of websites where you can quickly grasp a basic financial information a
 
 * [Wallmine](https://wallmine.com) - the site provides a lot of different information, but I primary use it get information about insider ownership and insider transactions.
 * [Simply Wall St](https://simplywall.st) - non-free service that visualizes companies with a single spot (green or read) that represents a company from an investing perspective. Provides a lot of additional valuable information that goes beyond regular ratios: visualized debt and equity development, insider trades, ownership breakdown, management compensations, etc...
+* [Equibles](https://equibles.com) - per-company earnings call transcripts, SEC filings, insider and congressional trades and 13F holders, with a free plan. The same data is available to Claude or ChatGPT through an MCP server.
 * [Glassdoor](https://www.glassdoor.com) - I use this website to find out what employees think about their company.
 * [Consumer Affairs](https://www.consumeraffairs.com/) - find out what consumers think about the company and its products
 
